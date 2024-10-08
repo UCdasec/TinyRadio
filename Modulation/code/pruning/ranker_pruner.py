@@ -1,12 +1,13 @@
 """
+Author: Ryan 
+
 Combine the rank_gen.py and automatic_pruner.py
 
 Useful for timing the whole pruning process instead of rank_gen time + 
 automatic pruner.py 
 
 BUGS: 
-    - Issue mention by mabon  with h =16,32,64 that require manaul 
-        intervention 
+    - H =16,32,64 that require manaul intervention to score file
         - manual intervention means one of the files needs editing before 
             finetuning... so the automation is broken. use rank_gen and 
             automatic_pruner seperately instead.

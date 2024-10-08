@@ -7,8 +7,7 @@ Useful for timing the whole pruning process instead of rank_gen time +
 automatic pruner.py 
 
 BUGS: 
-    - Issue mention by mabon  with h =16,32,64 that require manaul 
-        intervention 
+    - With h =16,32,64 that require manaul  intervention 
         - manual intervention means one of the files needs editing before 
             finetuning... so this script will not work when h>8. use rank_gen and 
             automatic_pruner seperately instead and manually edit the files

@@ -1,3 +1,7 @@
+"""
+Author: Mabon Manoj
+"""
+
 # Import necessary modules and packages
 from __future__ import division  # Ensure division behaves as expected in Python 2 and 3
 import pandas as pd
