@@ -1,0 +1,16 @@
+              precision    recall  f1-score   support
+
+    Device_0       0.54      0.81      0.65      4001
+    Device_1       0.81      0.70      0.75      4001
+    Device_2       0.77      0.64      0.70      4001
+    Device_3       0.54      0.51      0.52      4001
+    Device_4       0.27      0.07      0.11      4001
+    Device_5       0.45      0.58      0.51      4001
+    Device_6       0.32      0.38      0.35      4001
+    Device_7       0.24      0.15      0.19      4001
+    Device_8       0.39      0.49      0.43      4001
+    Device_9       0.46      0.58      0.51      4001
+
+    accuracy                           0.49     40010
+   macro avg       0.48      0.49      0.47     40010
+weighted avg       0.48      0.49      0.47     40010
